@@ -1,0 +1,95 @@
+{
+  "muted-pastels": [
+    {
+      "name": "Earth Yellow",
+      "background": {
+        "hex": "#E2AE65",
+        "rgb": "rgb(226, 174, 101)",
+        "hsl": "hsl(35, 55, 89)"
+      },
+      "border": {
+        "hex": "#BD641E",
+        "rgb": "rgb(189, 100, 30)",
+        "hsl": "hsl(26. 73, 43)"
+      }
+    },
+    {
+      "name": "Fuzzy Wuzzy",
+      "background": {
+        "hex": "#67B3C0",
+        "rgb": "rgb(192, 116, 103)",
+        "hsl": "hsl(9, 46, 75)"
+      },
+      "border": {
+        "hex": "#91352A",
+        "rgb": "rgb(145, 53, 42)",
+        "hsl": "hsl(6, 55, 37)"
+      }
+    },
+    {
+      "name": "Cookies And Cream",
+      "background": {
+        "hex": "#EDD6B4",
+        "rgb": "rgb(237, 214, 180)",
+        "hsl": "hsl(36, 24, 93)"
+      },
+      "border": {
+        "hex": "#C99659",
+        "rgb": "rgb(201, 150, 89)",
+        "hsl": "hsl(33, 51, 57)"
+      }
+    },
+    {
+      "name": "Pearl Aqua",
+      "background": {
+        "hex": "#8EC3BD",
+        "rgb": "rgb(142, 195, 189)",
+        "hsl": "hsl(173, 27, 76)"
+      },
+      "border": {
+        "hex": "#4F958C",
+        "rgb": "rgb(79, 149, 140)",
+        "hsl": "hsl(172, 31, 45)"
+      }
+    },
+    {
+      "name": "Hooker's Green",
+      "background": {
+        "hex": "#4D7C74",
+        "rgb": "rgb(77, 124, 116)",
+        "hsl": "hsl(170, 38, 49)"
+      },
+      "border": {
+        "hex": "#204A42",
+        "rgb": "rgb(32, 74, 66)",
+        "hsl": "hsl(169, 40, 21)"
+      }
+    },
+    {
+      "name": "Wintergreen Dream",
+      "background": {
+        "hex": "#519870",
+        "rgb": "rgb(81, 152, 112)",
+        "hsl": "hsl(146, 47, 60)"
+      },
+      "border": {
+        "hex": "#1C5D34",
+        "rgb": "rgb(28, 93, 52)",
+        "hsl": "hsl(142, 54, 24)"
+      }
+    },
+    {
+      "name": "Cadet Grey",
+      "background": {
+        "hex": "#94A8A9",
+        "rgb": "rgb(148, 168, 169)",
+        "hsl": "hsl(183, 12, 66)"
+      },
+      "border": {
+        "hex": "#566F70",
+        "rgb": "rgb(86, 111, 112)",
+        "hsl": "hsl(182, 13, 39)"
+      }
+    }
+  ]
+}
