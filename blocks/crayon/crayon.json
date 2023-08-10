@@ -1,9 +1,108 @@
 {
   "crayon": [
     {
-      "name": "",
-      "background": { "hex": "", "rgb": "", "hsl": "" },
-      "border": { "hex": "", "rgb": "", "hsl": "" }
+      "name": "Rose",
+      "background": {
+        "hex": "#FFDCE0",
+        "rgb": "rgb(255, 220, 224)",
+        "hsl": "hsl(353, 100, 93)"
+      },
+      "border": {
+        "hex": "#FF7585",
+        "rgb": "rgb(255,117,133)",
+        "hsl": "hsl(353, 100, 73)"
+      }
+    },
+    {
+      "name": "Green",
+      "background": {
+        "hex": "#CBDFD8",
+        "rgb": "rgb(203, 223, 216)",
+        "hsl": "hsl(159, 24, 84)"
+      },
+      "border": {
+        "hex": "#3CC67B",
+        "rgb": "rgb(60, 198, 123)",
+        "hsl": "hsl(148, 55, 51)"
+      }
+    },
+    {
+      "name": "Lavender",
+      "background": {
+        "hex": "#F0E7F6",
+        "rgb": "rgb(240, 231, 246)",
+        "hsl": "hsl(276, 45, 94)"
+      },
+      "border": {
+        "hex": "#B885DA",
+        "rgb": "rgb(184, 133, 218)",
+        "hsl": "hsl(279, 53, 69)"
+      }
+    },
+    {
+      "name": "LightGrey",
+      "background": {
+        "hex": "#E1E4E8",
+        "rgb": "rgb(225, 228, 232)",
+        "hsl": "hsl(214, 13, 90)"
+      },
+      "border": {
+        "hex": "#A39A9A",
+        "rgb": "rgb(163, 154, 154)",
+        "hsl": "hsl(0, 5, 62)"
+      }
+    },
+    {
+      "name": "Yellow",
+      "background": {
+        "hex": "#FFECB3",
+        "rgb": "rgb(255, 236, 179)",
+        "hsl": "hsl(47, 100, 82)"
+      },
+      "border": {
+        "hex": "#CDB367",
+        "rgb": "rgb(205, 179, 103)",
+        "hsl": "hsl(45, 51, 60)"
+      }
+    },
+    {
+      "name": "Orange",
+      "background": {
+        "hex": "#FFD8B3",
+        "rgb": "rgb(255, 216, 179)",
+        "hsl": "hsl(30, 100, 82)"
+      },
+      "border": {
+        "hex": "#EFAE70",
+        "rgb": "rgb(239, 174, 112)",
+        "hsl": "hsl(29, 80, 69)"
+      }
+    },
+    {
+      "name": "Blue",
+      "background": {
+        "hex": "#B3D1E8",
+        "rgb": "rgb(179, 209, 232)",
+        "hsl": "hsl(203, 52, 76)"
+      },
+      "border": {
+        "hex": "#78B2DE",
+        "rgb": "rgb(120, 178, 222)",
+        "hsl": "hsl(206, 61, 67)"
+      }
+    },
+    {
+      "name": "Teal",
+      "background": {
+        "hex": "#B3E8E3",
+        "rgb": "rgb(179, 232, 227)",
+        "hsl": "hsl(177, 52, 76)"
+      },
+      "border": {
+        "hex": "#59CABF",
+        "rgb": "rgb(89, 202, 191)",
+        "hsl": "hsl(174, 51, 57)"
+      }
     }
   ]
 }
