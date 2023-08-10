@@ -19,5 +19,5 @@ Follow these steps to use the templates:
 
 | Template | Colors | Link |
 | --- | --- | --- |
-| crayon | ![crayon color palette](./structure%20blocks/crayon/assets/ColorPicker.png) | [crayon.readme.md](./structure%20blocks/crayon/readme.md) |
-| muted pastels | ![muted pastels color palette](./structure%20blocks/muted-pastels/assets/ColorPicker.png) | [muted-pastels.readme.md](./structure%20blocks/muted-pastels/readme.md) |
+| crayon | ![crayon color palette](./blocks/crayon/assets/ColorPicker.png) | [crayon - readme.md](./blocks/crayon/README.md) |
+| muted pastels | ![muted pastels color palette](./blocks/muted-pastels/assets/ColorPicker.png) | [muted-pastels - readme.md](./blocks/muted-pastels/README.md) |

@@ -6,8 +6,8 @@
 
 ## Geometric Nodes
 
-![geometric nodes](./assets/Geometric%20nodes.png)
+![geometric nodes](./assets/GeometricNodes.png)
 
 ## Group Nodes
 
-![group nodes](./assets/Group%20nodes.png)
+![group nodes](./assets/GroupNodes.png)
